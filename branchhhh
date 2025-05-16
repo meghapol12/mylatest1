@@ -1,0 +1,21 @@
+cd newutbe1
+git branch
+dir
+cat index.html
+git branch localmegha
+git branch
+git checkout localmegha
+dir
+cat index.html
+notepad index.html
+cat index.html
+git status
+git add .
+git commit -m "task done1"
+
+git push origin localmegha
+
+git checkout master 
+cat index.html
+git merge localmegha
+git push -u origin master 
