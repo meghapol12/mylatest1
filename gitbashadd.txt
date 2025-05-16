@@ -1,0 +1,42 @@
+git config --global user
+git config --global user.meg12pol@gmail.com
+pwd
+mkdir newfolder
+dir
+clear
+cd newfolder
+touch index
+dir
+notepad index.html
+cat index.html
+======================
+git status git init
+git status
+git add index.html
+git add .
+git status
+git commit -m "1st commit index file"
+git log
+git log --oneline
+git remote
+
+git remote add https://github.com/meghapol12/mylatest1.git
+
+git remote add twinkle https://github.com/meghapol12/mylatest1.git
+
+git remote
+git remote -v
+
+git push -u origin master 
+
+=========================
+notepad index.html
+git status
+git add .
+git commit -m "newlineadd"
+git status
+git log
+git push -u origin master
+==============================
+=================================
+
