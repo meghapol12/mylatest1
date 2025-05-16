@@ -1,0 +1,7 @@
+
+acl enabled
+object writer
+public access
+static web
+select all file and make public
+
